@@ -1,18 +1,29 @@
-analytics: {}
+name: OnO
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.35519
+title: OnO
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
     - '#000000'
-    - '#d7c167'
-    - '#8e8687'
-    - '#2f2f2f'
-  brandStrength: 0.8051513985265046
+    - '#c3c3c3'
+    - '#545454'
+    - '#2c2c2c'
+  brandStrength: 0.8125
   lightness: 0.5426438273862004
-  rhythmicContrast: 0.13912022346630692
   saturation: 0.7583403519820422
-cta: {}
-layout_spectrum: 1
-name: OnO
-opengraph: {}
+  rhythmicContrast: 0.13912022346630692
 purpose: []
-typography_spectrum: 0.35519
