@@ -1,0 +1,28 @@
+name: OnO
+favicon: null
+layout_spectrum: 0.4110669188667089
+typography_spectrum: 0.442006150027737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8051513985265046
+  lightness: 0.5426438273862004
+  saturation: 0.7583403519820422
+  rhythmicContrast: 0.13912022346630692
+purpose: []
