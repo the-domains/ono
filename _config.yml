@@ -1,7 +1,7 @@
 name: OnO
 favicon: null
-layout_spectrum: 0.4110669188667089
-typography_spectrum: 0.442006150027737
+layout_spectrum: 1
+typography_spectrum: 0.35519
 title: OnO
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#000000'
+    - '#d7c167'
+    - '#8e8687'
+    - '#2f2f2f'
   brandStrength: 0.8051513985265046
   lightness: 0.5426438273862004
   saturation: 0.7583403519820422
